@@ -8,9 +8,9 @@
     "file_pdf": "C:\\Users\\Ahmad\\colab\\Standards-AI\\standards_pdf\\ips-e-pr-551(1).pdf",
     "file_text": "C:\\Users\\Ahmad\\colab\\Standards-AI\\standards_text\\ips-e-pr-551(1).txt",
     "file_json": "C:\\Users\\Ahmad\\colab\\Standards-AI\\standards_json\\ips-e-pr-551(1).json",
-    "num_clauses": 0,
+    "num_clauses": 45,
     "text_source": "ocr",
-    "ocr_quality": 0.7782177243830158
+    "ocr_quality": 0.7484969002222482
   },
   {
     "standard_code": "ips-e-pr-850(2)",
@@ -21,8 +21,8 @@
     "file_pdf": "C:\\Users\\Ahmad\\colab\\Standards-AI\\standards_pdf\\ips-e-pr-850(2).pdf",
     "file_text": "C:\\Users\\Ahmad\\colab\\Standards-AI\\standards_text\\ips-e-pr-850(2).txt",
     "file_json": "C:\\Users\\Ahmad\\colab\\Standards-AI\\standards_json\\ips-e-pr-850(2).json",
-    "num_clauses": 0,
+    "num_clauses": 22,
     "text_source": "ocr",
-    "ocr_quality": 0.7733887733887734
+    "ocr_quality": 0.742061123849609
   }
 ]
